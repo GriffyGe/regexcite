@@ -1,5 +1,5 @@
 Package: regexcite
-Title: An exciting package for working with strings.
+Title: An exciting package for working with strings
 Version: 0.0.0.9000
 Authors@R: 
     person("Griffy", "Ge", , "Yifeii.Ge@outlook.com", role = c("aut", "cre"),
