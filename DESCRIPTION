@@ -14,5 +14,8 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
-URL: https://github.com/GriffyGe/regexcite
+URL: https://github.com/GriffyGe/regexcite, https://griffyge.github.io/regexcite/
 BugReports: https://github.com/GriffyGe/regexcite/issues
+Depends: 
+    R (>= 2.10)
+LazyData: true
