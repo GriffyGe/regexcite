@@ -17,3 +17,19 @@ knitr::opts_chunk$set(
 ```{r setup}
 library(regexcite)
 ```
+
+# Package instruction
+
+Hi;)! This package can help you manipulate your strings.
+
+# Example
+
+```{r}
+str_split_one("hello_world_!", pattern = "_")
+```
+# Session info
+
+```{r}
+sessionInfo()
+```
+
